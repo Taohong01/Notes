@@ -1,4 +1,6 @@
-## Welcome to My GitHub Pages
+## Welcome to my github notes
+
+Looks like this is nice way to store and publish notes on the internet, so I want to give it a try.
 
 You can use the [editor on GitHub](https://github.com/Taohong01/Notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
