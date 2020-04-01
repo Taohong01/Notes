@@ -1,10 +1,7 @@
 ## Welcome to my github notes
 
-Looks like this is nice way to store and publish notes on the internet, so I want to give it a try.
+Looks like this is nice way to store and publish notes on the internet.
 
-You can use the [editor on GitHub](https://github.com/Taohong01/Notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
